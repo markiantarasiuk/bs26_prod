@@ -188,4 +188,84 @@ LOCATION:TBD
 DESCRIPTION:Ryan / Cast #3 work day. Cross-referenced from DOD and Blue Oneliner.
 END:VEVENT
 
+BEGIN:VEVENT
+UID:blue-skies-ryan-20260629@mtarasiuk
+DTSTAMP:20260625T180000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:Blue Skies - Ryan Works
+LOCATION:Langley, BC
+DESCRIPTION:Ryan / Cast #3 work day. Cross-referenced from DOD and Blue Oneliner.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blue-skies-ryan-20260710@mtarasiuk
+DTSTAMP:20260625T180000Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:Blue Skies - Ryan Works
+LOCATION:Pemberton, BC
+DESCRIPTION:Ryan / Cast #3 work day. Cross-referenced from DOD and Blue Oneliner.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blue-skies-ryan-20260713@mtarasiuk
+DTSTAMP:20260625T180000Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:Blue Skies - Ryan Works
+LOCATION:Brackendale, BC
+DESCRIPTION:Ryan / Cast #3 work day. Cross-referenced from DOD and Blue Oneliner.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blue-skies-ryan-20260714@mtarasiuk
+DTSTAMP:20260625T180000Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:Blue Skies - Ryan Works
+LOCATION:Brackendale, BC
+DESCRIPTION:Ryan / Cast #3 work day. Cross-referenced from DOD and Blue Oneliner.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blue-skies-ryan-20260715@mtarasiuk
+DTSTAMP:20260625T180000Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:Blue Skies - Ryan Works
+LOCATION:Brackendale, BC
+DESCRIPTION:Ryan / Cast #3 work day. Cross-referenced from DOD and Blue Oneliner.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blue-skies-ryan-20260716@mtarasiuk
+DTSTAMP:20260625T180000Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:Blue Skies - Ryan Works
+LOCATION:Brackendale, BC
+DESCRIPTION:Ryan / Cast #3 work day. Cross-referenced from DOD and Blue Oneliner.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blue-skies-ryan-20260717@mtarasiuk
+DTSTAMP:20260625T180000Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:Blue Skies - Ryan Works
+LOCATION:Brackendale, BC
+DESCRIPTION:Ryan / Cast #3 work day. Cross-referenced from DOD and Blue Oneliner.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:blue-skies-ryan-20260721@mtarasiuk
+DTSTAMP:20260625T180000Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:Blue Skies - Ryan Works
+LOCATION:Langley, BC
+DESCRIPTION:Ryan / Cast #3 work day. Cross-referenced from DOD and Blue Oneliner.
+END:VEVENT
+
 END:VCALENDAR
