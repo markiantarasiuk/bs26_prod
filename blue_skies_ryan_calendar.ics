@@ -566,4 +566,124 @@ STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 
+BEGIN:VEVENT
+UID:bs2-b6-ryan-20260911
+DTSTAMP:20260911T190000Z
+DTSTART;TZID=America/Vancouver:20260911T090000
+DTEND;TZID=America/Vancouver:20260911T233000
+SUMMARY:BLUE SKIES S2 - Ryan - Block 6 Day 1
+LOCATION:Volume Stage
+DESCRIPTION:Ryan Miller #3\nShoot Day 1\nEST CALL: 9:00 AM\nEST DAY: 14h30\nBlock 6 - Episodes 211 LEGACY / 212 RUNNING WILD + reshoots\n\nRYAN SCENES:\n211 20pt1/21pt2 - Ryan's Tahoe - Ryan tells Nora about the kiss\n211 71pt1/73pt2/74Cpt1 - Ryan's Tahoe - Nora gets a call from Tyson\n209 34pt1 - Ryan's Tahoe - Ryan talks to Jodi\n208 XX - Ryan's Tahoe - Ryan gets text from Jodi\n208 121pt - Peak & Valley Cheat - Ryan sees Jodi with Ernie
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bs2-b6-ryan-20260915
+DTSTAMP:20260911T190000Z
+DTSTART;TZID=America/Vancouver:20260915T070000
+DTEND;TZID=America/Vancouver:20260915T190000
+SUMMARY:BLUE SKIES S2 - Ryan - Block 6 Day 3
+LOCATION:Backlot
+DESCRIPTION:Ryan Miller #3\nShoot Day 3\nEST CALL: 7:00 AM\nEST DAY: 12h\nEpisode 211 LEGACY\n\nRYAN SCENES:\n211 6A - Crystal Ridge Park Parking Lot - Olivia was waiting for Ryan\n211 66A - Parking Lot - Guy decides to run\n211 67 - Parking Lot - Ryan & Nora head out\n211 75/76pt2/77pt2/79pt2/80pt2/81 - Guy is caught and Jodi explains\n211 65pt1/66pt2 - Union Tent Area - Guy did not stay put
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bs2-b6-ryan-20260916
+DTSTAMP:20260911T190000Z
+DTSTART;TZID=America/Vancouver:20260916T070000
+DTEND;TZID=America/Vancouver:20260916T183000
+SUMMARY:BLUE SKIES S2 - Ryan - Block 6 Day 4
+LOCATION:Backlot
+DESCRIPTION:Ryan Miller #3\nShoot Day 4\nEST CALL: 7:00 AM\nEST DAY: 11h30\nEpisode 211 LEGACY\n\nRYAN SCENES:\n211 33 - Armoury Tent\n211 37pt2/38pt1 - Ryan Meeks & Nora investigate\n211 43 - Armoury Tent\n211 63 - Armoury Tent\n211 62A - Union Tent Area - Jodi & Ryan will take Nick
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bs2-b6-ryan-20260917
+DTSTAMP:20260911T190000Z
+DTSTART;TZID=America/Vancouver:20260917T070000
+DTEND;TZID=America/Vancouver:20260917T193000
+SUMMARY:BLUE SKIES S2 - Ryan - Block 6 Day 5
+LOCATION:Backlot
+DESCRIPTION:Ryan Miller #3\nShoot Day 5\nEST CALL: 7:00 AM\nEST DAY: 12h30\nEpisode 211 LEGACY\n\nRYAN SCENES:\n211 8B - Union Tent Area - Ryan has joined to help\n211 17 - Union Tent Area - Elliott is missing / everyone searches\n211 45pt1/45Apt2 - Union Tent Area
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bs2-b6-ryan-20260918
+DTSTAMP:20260911T190000Z
+DTSTART;TZID=America/Vancouver:20260918T090000
+DTEND;TZID=America/Vancouver:20260919T003000
+SUMMARY:BLUE SKIES S2 - Ryan - Block 6 Day 6
+LOCATION:Backlot
+DESCRIPTION:Ryan Miller #3\nShoot Day 6\nEST CALL: 9:00 AM\nEST DAY: 15h30\n2nd Unit works today\nEpisode 211 LEGACY\n\nRYAN SCENES:\n211 59C - Union Tent Area - Ryan & Nora look for Guy\n211 59E - Guy's Tent - Ryan & Nora question Guy\n211 29 - Forest - Ryan Meeks & Nora search for stray musket\n211 31pt1/32pt2 - Forest
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bs2-b6-ryan-20260921
+DTSTAMP:20260911T190000Z
+DTSTART;TZID=America/Vancouver:20260921T070000
+DTEND;TZID=America/Vancouver:20260922T060000
+SUMMARY:BLUE SKIES S2 - Ryan - Block 6 Day 7
+LOCATION:Backlot
+DESCRIPTION:Ryan Miller #3\nShoot Day 7\nEST CALL: 7:00 AM\nProduction EST DAY: 23h\n2nd Unit / Drone / C Cam\nEpisode 211 LEGACY\n\nRYAN SCENES:\n211 8C - Forest - Jodi Blue Ryan & Nora begin investigation\n211 10A - Forest - collect guns / keep everyone contained\n211 49B - Union Tent Area - Ryan keeps an eye on Nick\n\nNOTE: Production one-liner lists a 23-hour estimated day. Personal Ryan wrap may be substantially earlier.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bs2-b6-ryan-20260922
+DTSTAMP:20260911T190000Z
+DTSTART;TZID=America/Vancouver:20260922T070000
+DTEND;TZID=America/Vancouver:20260923T063000
+SUMMARY:BLUE SKIES S2 - Ryan - Block 6 Day 8
+LOCATION:Aldergrove
+DESCRIPTION:Ryan Miller #3\nShoot Day 8\nEST CALL: 7:00 AM\nProduction EST DAY: 23h30\n2nd Unit / C Cam / Drone\nEpisode 212 RUNNING WILD\n\nRYAN SCENES:\n212 24 - Francine's Ranch Stables - Francine shows them her ketamine\n212 21 - Francine's Ranch Stables - Francine panics about missing horse\n\nNOTE: Production one-liner lists a 23h30 estimated day. Personal Ryan wrap may be substantially earlier.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bs2-b6-ryan-20260925
+DTSTAMP:20260911T190000Z
+DTSTART;TZID=America/Vancouver:20260925T093000
+DTEND;TZID=America/Vancouver:20260925T220000
+SUMMARY:BLUE SKIES S2 - Ryan - Block 6 Day 11
+LOCATION:Aldergrove
+DESCRIPTION:Ryan Miller #3\nShoot Day 11\nEST CALL: 9:30 AM\nEST DAY: 12h30\nEpisode 212 RUNNING WILD\n\nRYAN SCENES:\n212 25 - Francine's Farm Shed - ketamine stash\n212 22 - Francine's Ranch Driveway - Jodi wants to take the lead\n212 23 - Francine's Ranch Driveway - Jodi fills in Francine
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bs2-b6-ryan-20260929
+DTSTAMP:20260911T190000Z
+DTSTART;TZID=America/Vancouver:20260929T080000
+DTEND;TZID=America/Vancouver:20260929T200000
+SUMMARY:BLUE SKIES S2 - Ryan - Block 6 Day 12
+LOCATION:Studio
+DESCRIPTION:Ryan Miller #3\nShoot Day 12\nEST CALL: 8:00 AM\nEST DAY: 12h\nEpisode 212 RUNNING WILD\n\nRYAN SCENES:\n212 6 - Peaks & Valley - Olivia shows Ryan what she has\n212 13 - Peaks & Valley - Ryan tries to convince Olivia to keep quiet\n212 19pt2/20pt1 - Peaks & Valley - Ryan goes to meet Jodi\n212 107pt1/107Apt2 - Sheriff's Dept / Ryan's Office - Ryan talks to Nora then Olivia arrives\n212 106A/106C/106E - Ryan's Office - Ryan watches Olivia's stream
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bs2-b6-ryan-20260930
+DTSTAMP:20260911T190000Z
+DTSTART;TZID=America/Vancouver:20260930T083000
+DTEND;TZID=America/Vancouver:20260930T210000
+SUMMARY:BLUE SKIES S2 - Ryan - Block 6 Day 13
+LOCATION:Studio
+DESCRIPTION:Ryan Miller #3\nShoot Day 13\nEST CALL: 8:30 AM\nEST DAY: 12h30\nEpisode 212 RUNNING WILD\n\nRYAN SCENES:\n212 58 - Sheriff's Dept / Ryan's Office - Ryan researches Francine's property\n212 61A/61Bpt2 - Ryan's Office - Ryan calls Tyson\n212 30 - NPS HQ Observation Room\n212 29/31 - NPS HQ Interrogation Room - Ryan interrogates Francine
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bs2-b6-ryan-20261002
+DTSTAMP:20260911T190000Z
+DTSTART;TZID=America/Vancouver:20261002T100000
+DTEND;TZID=America/Vancouver:20261002T233000
+SUMMARY:BLUE SKIES S2 - Ryan - Block 6 Day 15
+LOCATION:Studio
+DESCRIPTION:Ryan Miller #3\nShoot Day 15\nEST CALL: 10:00 AM\nEST DAY: 13h30\nEpisodes 211 / 212\n\nRYAN SCENES:\n212 34 - NPS HQ Tyson's Pod\n211 83pt1 - NPS HQ Tyson's Pod - Jodi & Tyson say goodnight\n211 84 - NPS HQ Bullpen - Ryan thinks Nora will make an amazing sheriff\n212 107pt2/107Apt1 - EXT NPS HQ - one-line description references Ryan helping Nora; cast listing on this scene shows #5 only
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bs2-b6-ryan-20261005
+DTSTAMP:20260911T190000Z
+DTSTART;TZID=America/Vancouver:20261005T080000
+DTEND;TZID=America/Vancouver:20261005T200000
+SUMMARY:BLUE SKIES S2 - Ryan - Block 6 Day 16
+LOCATION:Studio
+DESCRIPTION:Ryan Miller #3\nShoot Day 16\nEST CALL: 8:00 AM\nEST DAY: 12h\nEpisode 212 RUNNING WILD\n\nRYAN SCENES:\n212 36 - NPS HQ Bullpen - Tyson thinks there might be a cook house\n212 40 - NPS HQ Bullpen - Ryan tells Jodi they are good
+END:VEVENT
+
 END:VCALENDAR
